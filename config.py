@@ -1,0 +1,3 @@
+FPS = 60
+SIZE = WIDTH, HEIGHT = 1000, 563
+COLOR = (0, 0, 0)

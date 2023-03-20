@@ -1,0 +1,6 @@
+pygame
+sqlite3
+os
+sys
+random
+time
